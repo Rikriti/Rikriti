@@ -1,10 +1,5 @@
 
-```python
-def motivation():
-    quote = "Code is like humor. When you have to explain it, it’s bad."
-    print(quote)
-
-motivation()
+<a href="#"><img width="100%" height="auto" src="https://imgur.com/sVlDLRy.jpeg" height="175px"/></a>
 ```
 <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rikriti Koirala</h1>
 <h3 align="center">A Passionate Full Stack Developer from Nepal</h3>
@@ -15,7 +10,7 @@ motivation()
 - 🔭 **Currently Pursuing:** MS in Computer Science at **NWMSU**
 - 🌱 **Currently Learning:** Advanced **Web Development**
 - 👯 **Open to Collaborate:** On exciting **Open Source Projects**
-- 📫 **Reach Me At:** [S564185@nwmissouri.edu](mailto:S564185@nwmissouri.edu)
+- 📫 **Reach Me At:** [rikritikoirala@gmail.com](mailto:rikritikoirala@gmail.com)
 - ⚡ **Fun Fact:** Programming: miss one comma, turn your code into a mystery novel.
 
 ---
