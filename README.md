@@ -1,6 +1,6 @@
-
-<a href="#"><img width="600px" height="400px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/></a>
-
+<p p align="center">
+<a href="#"><img width="600px" height="400px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/></a>>
+</p>
 <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rikriti Koirala</h1>
 <h3 align="center">A Passionate Full Stack Developer from Nepal</h3>
 
