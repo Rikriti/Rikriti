@@ -1,5 +1,5 @@
 
-<a href="#"><img width="100%" height="auto" src="https://imgur.com/sVlDLRy.jpeg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/></a>
 ```
 <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rikriti Koirala</h1>
 <h3 align="center">A Passionate Full Stack Developer from Nepal</h3>
