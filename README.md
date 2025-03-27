@@ -40,11 +40,11 @@
 
 ## 📊 GitHub Stats
 
-<br/>
+<!-----<br/>
     <a href="https://github.com/rikriti/github-readme-streak-stats">
         <img alt="Rikriti Koirala's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rikriti&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-<br/>
+<br/>---->
 
 <br/>
     <a href="https://github.com/rikriti/github-readme-stats">
