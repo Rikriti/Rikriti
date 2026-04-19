@@ -12,7 +12,7 @@
 
 ## 🙋‍♂️ About Me
 - 🔭 **Degree:** MS in Computer Science at **NWMSU**
-- 🌱 **Currently Learning:** Advanced **Java**
+- 🌱 **Currently Learning:** Advanced **Java** / **Machine Learning Models**
 - 👯 **Open to Collaborate:** On exciting **Research Projects on HCI/ML/AI** 
 - 📫 **Reach Me At:** [rikritikoirala@gmail.com](mailto:rikritikoirala@gmail.com)
 - ⚡ **Fun Fact:** Programming: miss one comma, turn your code into a mystery novel.
