@@ -46,17 +46,27 @@
     </a>
 <br/>---->
 
-<br/>
-    <a href="https://github.com/rikriti/github-readme-stats">
-        <img alt="Rikriti Koirala's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rikriti&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-    </a>
-<br/>
+<p align="center">
 
-<br/>
-    <a href="https://github.com/rikriti/github-readme-activity-graph">
-        <img alt="Rikriti Koirala's GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rikriti&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-    </a>
-<br/>
+<a href="https://github.com/rikriti/github-readme-stats">
+  <img 
+    alt="Rikriti Koirala's GitHub Stats" 
+    src="https://github-readme-stats.vercel.app/api?username=rikriti&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"
+  />
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/rikriti/github-readme-activity-graph">
+  <img 
+    alt="Rikriti Koirala's GitHub Activity Graph" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rikriti&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"
+  />
+</a>
+
+</p>
 
 ---
 
