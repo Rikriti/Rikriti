@@ -38,7 +38,7 @@
 
 ---
 
-## 📊 GitHub Stats
+
 
 <!-----<br/>
     <a href="https://github.com/rikriti/github-readme-streak-stats">
@@ -46,7 +46,7 @@
     </a>
 <br/>---->
 
-<p align="center">
+<!-- <p align="center">
 
 <a href="https://github.com/rikriti/github-readme-stats">
   <img 
@@ -55,9 +55,9 @@
   />
 </a>
 
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
 
 <a href="https://github.com/rikriti/github-readme-activity-graph">
   <img 
@@ -66,9 +66,9 @@
   />
 </a>
 
-</p>
+</p> -->
 
----
+
 
 ## 🌐 Connect with Me
 
